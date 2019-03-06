@@ -1,0 +1,26 @@
+---
+title: "My Second Post"
+description: |
+  A short description of the post.
+author:
+  - name: Monika N. Lind
+    url: https://instagram.com/monnybonmot
+date: 03-06-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+```
+
+Another totally sweet mpg vis.
+
+```{r}
+ggplot(mpg, aes(year, hwy)) +
+  geom_point(aes(color = manufacturer))
+```
+
+Lol apparently there are only two years.

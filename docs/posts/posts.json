@@ -15,6 +15,21 @@
     "last_modified": "2019-03-06T10:51:32-08:00"
   },
   {
+    "path": "posts/2019-03-06-my-second-post/",
+    "title": "My Second Post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Monika N. Lind",
+        "url": "https://instagram.com/monnybonmot"
+      }
+    ],
+    "date": "2019-03-06",
+    "categories": [],
+    "preview": "posts/2019-03-06-my-second-post/my-second-post_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2019-03-06T10:58:40-08:00"
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to Monika's Distill Practice",
     "description": "Welcome to our new blog, Monika's Distill Practice. We hope you enjoy \nreading what we have to say!",
