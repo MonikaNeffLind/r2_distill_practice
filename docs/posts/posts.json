@@ -1,0 +1,17 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Monika's Distill Practice",
+    "description": "Welcome to our new blog, Monika's Distill Practice. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Monika N. Lind",
+        "url": "https://instagram.com/monnybonmot"
+      }
+    ],
+    "date": "2019-03-04",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-03-04T10:57:31-08:00"
+  }
+]
