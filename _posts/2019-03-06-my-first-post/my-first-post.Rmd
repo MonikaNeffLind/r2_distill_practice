@@ -1,0 +1,27 @@
+---
+title: "My First Post"
+description: |
+  A short description of the post.
+author:
+  - name: Monika N. Lind
+    url: https://instagram.com/monnybonmot
+date: 03-06-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+```
+
+Here's a basic figure.
+
+```{r plot1}
+ggplot(mpg, aes(displ, cty)) +
+  geom_point(aes(color = drv)) +
+  geom_smooth()
+```
+
+Here's some more text now.
